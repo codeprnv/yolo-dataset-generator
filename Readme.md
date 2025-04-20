@@ -18,8 +18,8 @@ Generate high-quality, YOLOv8-compatible datasets with ease by leveraging the po
 
 ### 1. Clone the repository
 ```bash
-https://github.com/yourusername/grounding-dino-yolo-dataset-generator.git
-cd grounding-dino-yolo-dataset-generator
+https://github.com/codeprnv/yolo-dataset-generator.git
+cd yolo-dataset-generator
 ```
 
 ### 2. Install dependencies (recommended in virtualenv or conda)
