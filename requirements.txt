@@ -1,0 +1,13 @@
+matplotlib==3.10.1
+numpy==2.2.5
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+PyYAML==6.0.2
+requests==2.32.3
+supervision==0.25.1
+torch==2.6.0
+torchvision==0.21.0
+tqdm==4.67.0
+transformers==4.47.1
+ultralytics==8.3.56
+segment_anything @ git+https://github.com/facebookresearch/segment-anything.git
