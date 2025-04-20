@@ -72,7 +72,7 @@ curl -L https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth -o 
 
 ### 2. Run the script
 ```bash
-python annotate.py
+python gds_yolo_prep.py
 ```
 
 You'll be prompted to:
